@@ -1,6 +1,5 @@
 String Parser
 Authored by : Mohammad Khayyo
-211558895
 
 
 ==Description==
