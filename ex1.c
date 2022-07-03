@@ -1,5 +1,4 @@
-//Name: Mohammad Khayyo
-// ID : 211558895
+
 #include <stdio.h>
 #include <stdlib.h>
 #include "string.h"
